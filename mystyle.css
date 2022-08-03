@@ -1,0 +1,32 @@
+body {
+	font-family: Futura, Arial, Helvetica, sans-serif;
+	background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_deep_field_smacs0723-5mb.jpg");
+	background-color: dimgray;
+}
+
+h1 {
+	color: darkslategray
+}
+
+p {
+	color: thistle
+}
+
+.classy {
+	color: thistle
+}
+
+#name {
+	color: coral
+}
+
+#mainText {
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: darkolivegreen;
+	padding: 15px;
+	border: 1px solid lightcoral;
+	border-radius: 20px;
+	box-shadow: 10px 10px 5px darkslategray;
+}

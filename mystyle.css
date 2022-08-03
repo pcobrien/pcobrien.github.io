@@ -21,6 +21,10 @@ p {
 	color: #A6431F
 }
 
+iframe {
+	display: block;
+}
+
 #mainText {
 	width: 800px;
 	height: 600px;

@@ -1,32 +1,33 @@
 body {
 	font-family: Futura, Arial, Helvetica, sans-serif;
-	background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_deep_field_smacs0723-5mb.jpg");
-	background-color: dimgray;
+	background-image: url("images/jwst.jpg");
+	background-color: darkslategray;
+	color: #0D0D0D;
 }
 
 h1 {
-	color: darkslategray
+	color: #0D0D0D;
 }
 
 p {
-	color: thistle
+	color: #0D0D0D;
 }
 
 .classy {
-	color: thistle
+	color: #0D0D0D;
 }
 
 #name {
-	color: coral
+	color: #A6431F
 }
 
 #mainText {
-	width: 500px;
-	height: 500px;
+	width: 800px;
+	height: 600px;
 	margin: 0 auto;
-	background-color: darkolivegreen;
+	background-color: #bfc1c2;
 	padding: 15px;
-	border: 1px solid lightcoral;
+	border: 1px solid #A6431F;
 	border-radius: 20px;
-	box-shadow: 10px 10px 5px darkslategray;
+	box-shadow: 10px 10px 5px #0D0D0D;
 }
